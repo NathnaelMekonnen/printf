@@ -79,4 +79,4 @@
 
 [Nathnael Mekonnen](https://github.com/NathnaelMekonnen)
 
-[milkaai wako](https://github.com/milkaaiwako)
+[milkaai wako](https://github.com/milkaai)
